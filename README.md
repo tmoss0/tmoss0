@@ -1,4 +1,26 @@
-### Hi there 👋
+# My name is Tim Moss and I live to CODE
+
+### I am Front-End Developer and I love to learn new programming langues and new UI techniques
+
+### Website: https://thmoss.com/ | Code: https://github.com/tmoss0/Portfolio-Website
+
+#### What I currently work with:
+- HTML
+- CSS
+- SCSS
+- JavaScript
+- ReactJS
+
+#### What I am currently learning:
+- Gatsby
+- Tailwind
+- How to not suck at design
+- Contributing to open-source
+
+#### If you'd like to get in touch, you can reach me at
+
+:email: tim@thmoss.com
+
 
 <!--
 **tmoss0/tmoss0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
