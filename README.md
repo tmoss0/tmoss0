@@ -2,7 +2,7 @@
 
 ### I am Front-End Web Developer and I love to learn new languages and anything tech-related!
 
-### View my website for more info about me
+### View my website below for more info about me:
 ### [Website](https://thmoss.com/) | [Code](https://github.com/tmoss0/Portfolio-Website)
 
 ##### What I currently work with:
