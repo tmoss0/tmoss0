@@ -5,20 +5,20 @@
 ### View my website for more info about me
 ### [Website](https://thmoss.com/) | [Code](https://github.com/tmoss0/Portfolio-Website)
 
-#### What I currently work with:
+##### What I currently work with:
 - HTML
 - CSS
 - SCSS
 - JavaScript
 - ReactJS
 
-#### What I am currently learning:
+##### What I am currently learning:
 - Gatsby
 - Tailwind
 - How to not suck at design
 - Contributing to open-source
 
-#### If you'd like to get in touch, you can reach me at
+##### If you'd like to get in touch, you can reach me at
 
 :email: tim@thmoss.com
 
