@@ -2,7 +2,8 @@
 
 ### I am Front-End Web Developer and I love to learn new programming langues and new UI techniques
 
-### Website: https://thmoss.com/ | Code: https://github.com/tmoss0/Portfolio-Website
+### View my website for more info about me
+### [Website](https://thmoss.com/) | [Code](https://github.com/tmoss0/Portfolio-Website)
 
 #### What I currently work with:
 - HTML
