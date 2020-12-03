@@ -15,7 +15,7 @@
 ##### What I am currently learning:
 - Gatsby
 - Tailwind
-- How to not suck at design
+- Properly design techniques 
 - Contributing to open-source
 
 ##### If you'd like to get in touch, you can reach me at
