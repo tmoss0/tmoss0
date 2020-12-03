@@ -1,6 +1,6 @@
 # My name is Tim Moss and I live to CODE
 
-### I am Front-End Web Developer and I love to learn new programming langues and new UI techniques
+### I am Front-End Web Developer and I love to learn new languages and anything tech-related!
 
 ### View my website for more info about me
 ### [Website](https://thmoss.com/) | [Code](https://github.com/tmoss0/Portfolio-Website)
