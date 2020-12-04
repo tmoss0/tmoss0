@@ -15,7 +15,8 @@
 ##### What I am currently learning:
 - Gatsby
 - Tailwind
-- Properly design techniques 
+- Gulp/Webpack
+- Better design techniques 
 - Contributing to open-source
 
 ##### If you'd like to get in touch, you can reach me at
