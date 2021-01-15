@@ -15,6 +15,7 @@ I am a Front-End Web Developer working in the Marketing industry. I am constantl
 
 ##### 🌱 What I'm Learning
 ![image](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
+![image](https://img.shields.io/badge/GraphQL-E535AB?style=for-the-badge&logoColor=white)
 ![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![image](https://img.shields.io/badge/Gulp-D34A47?style=for-the-badge&logoColor=white)
 ![image](https://img.shields.io/badge/Design_Skills-00457C?style=for-the-badge&logoColor=white)
