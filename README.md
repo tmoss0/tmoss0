@@ -1,8 +1,6 @@
 # Hello there, I'm Tim!
 
-I'm a Front-End Web Developer working at Fast Growing Trees.
-
-https://www.fast-growing-trees.com/
+I'm looking for work as a Front-End Developer who primarily focuses on E-Commerce Stores!
 
 #### For more about me, check out my portfolio!
 #### [Website](https://thmoss.com/) | [Code](https://github.com/tmoss0/Portfolio-Website)
