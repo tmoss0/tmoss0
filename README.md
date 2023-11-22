@@ -1,6 +1,8 @@
 # Hello there, I'm Tim!
 
-I'm looking for work as a Front-End Developer who primarily focuses on E-Commerce Stores!
+I'm a front-end developer who is passionate about making fast and user-friendly websites. I have previously worked for a rapidly growing e-commerce store and an automotive-focused marketing agency.
+
+I also like to work on video game development in my spare time!
 
 #### For more about me, check out my portfolio!
 #### [Website](https://thmoss.com/) | [Code](https://github.com/tmoss0/Portfolio-Website)
