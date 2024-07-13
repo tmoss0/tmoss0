@@ -4,6 +4,8 @@ I'm a front-end developer who is passionate about making fast and user-friendly 
 
 I also like to work on video game development in my spare time!
 
+I currently work on [Rookie Kids](https://www.rookiekids.com/) as a software developer 
+
 #### For more about me, check out my portfolio!
 #### [Website](https://thmoss.com/) | [Code](https://github.com/tmoss0/Portfolio-Website)
 
