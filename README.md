@@ -6,12 +6,9 @@ I also like to work on video game development in my spare time!
 
 I currently work on [Rookie Kids](https://www.rookiekids.com/) as a software developer 
 
-#### For more about me, check out my portfolio!
-#### [Website](https://thmoss.com/) | [Code](https://github.com/tmoss0/Portfolio-Website)
-
 ##### If you'd like to get in touch
 
-:email: tim@thmoss.com
+:email: tmoss726@gmail.com
 
 :wave: https://www.linkedin.com/in/tmoss0/
 
